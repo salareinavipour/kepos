@@ -40,6 +40,23 @@ social sciences. Coursework spans metaphysics, epistemology, philosophy of
 mind, and moral/political philosophy, plus elective modules in specialized
 areas.
 
+The program and the Institute of Philosophy as a whole put particular weight
+on **values in science**: how ethical, social, and political values shape (and
+should shape) scientific research, and what that means for the credibility of
+scientific knowledge. Expect this theme to run through many courses rather
+than sit in a single module.
+
+### SOCRATES center
+
+Closely tied to this focus is [SOCRATES](https://www.socrates.uni-hannover.de/en/)
+(*Social Credibility and Trustworthiness of Expert Knowledge and Science-Based
+Information*), a DFG-funded Centre for Advanced Studies based at the Institute
+of Philosophy at LUH. It runs an interdisciplinary forum on scientific
+credibility and public trust in science, with a seminar series, events, and
+summer schools (e.g. one on trust, values, and uncertainty in climate action).
+It is a research center rather than a degree program, so check its site for
+which events are open to students.
+
 ## Source
 
 [Official program page](https://www.uni-hannover.de/en/studium/studienangebot/info/studiengang/detail/philosophy-of-science-1)
