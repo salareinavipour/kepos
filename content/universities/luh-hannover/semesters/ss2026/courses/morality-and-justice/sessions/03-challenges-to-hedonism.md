@@ -1,4 +1,4 @@
-# Session 3 (Apr 24): Challenges to Hedonism, Desire Satisfaction Theory
+# Session 3: Challenges to Hedonism, Desire Satisfaction Theory
 
 ## Required reading
 
@@ -11,7 +11,3 @@
 Nozick's experience-machine thought experiment as a challenge to
 hedonism; whether it refutes hedonism outright; Heathwood's
 desire-satisfaction account of welfare and possible counterexamples to it.
-
-## Notes
-
-No seminar May 1 (Labor Day).

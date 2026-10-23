@@ -1,4 +1,4 @@
-# Session 11 (Jan 22): Science and Policy
+# Session 11: Science and Policy
 
 ## Primary reading
 

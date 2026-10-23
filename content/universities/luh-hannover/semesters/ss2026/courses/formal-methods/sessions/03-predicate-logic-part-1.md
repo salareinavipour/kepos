@@ -1,4 +1,4 @@
-# Session 3 (May 8): Predicate Logic (Part 1)
+# Session 3: Predicate Logic (Part 1)
 
 ## Recommended reading
 

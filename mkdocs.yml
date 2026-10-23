@@ -50,23 +50,21 @@ nav:
                       - "Ch. 4 — Theory, measurement, absolute temperature": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/04-theory-measurement-absolute-temperature.md
                       - "Ch. 5 — Measurement, justification, progress": universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/sessions/05-measurement-justification-scientific-progress.md
                   - Readings: universities/luh-hannover/semesters/ws2025/courses/models-and-measurement/resources/readings.md
-              - Project Seminar / Project Week:
-                  - Overview: universities/luh-hannover/semesters/ws2025/courses/project-week/overview.md
+              - Project Seminar:
+                  - Overview: universities/luh-hannover/semesters/ws2025/courses/project-seminar/overview.md
                   - Sessions:
-                      - "1. Introduction": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/01-introduction.md
-                      - "2. Reading philosophical literature": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/02-reading-philosophical-literature.md
-                      - "3. Concepts and conceptual analysis": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/03-concepts-and-conceptual-analysis.md
-                      - "4. Reconstructing arguments": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/04-reconstructing-arguments.md
-                      - "5. Evaluating arguments": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/05-evaluating-arguments.md
-                      - "6. How to start a project": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/06-how-to-start-a-project.md
-                      - "7. Structuring a paper": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/07-structuring-a-paper.md
-                      - "8. Using philosophical tools": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/08-using-philosophical-tools.md
-                      - "9. Essay writing week": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/09-essay-writing-week.md
-                      - "10. Reflection on the process": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/10-reflection-on-the-process.md
-                      - "11. Referencing and citations": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/11-referencing-and-citations.md
-                      - "12. Independent research & check-in": universities/luh-hannover/semesters/ws2025/courses/project-week/sessions/12-checking-in.md
-                  - Readings: universities/luh-hannover/semesters/ws2025/courses/project-week/resources/readings.md
-                  - Writing & exam guidelines: universities/luh-hannover/semesters/ws2025/courses/project-week/resources/writing-and-exam-guidelines.md
+                      - "1. Introduction": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/01-introduction.md
+                      - "2. Reading philosophical literature": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/02-reading-philosophical-literature.md
+                      - "3. Concepts and conceptual analysis": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/03-concepts-and-conceptual-analysis.md
+                      - "4. Reconstructing arguments": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/04-reconstructing-arguments.md
+                      - "5. Evaluating arguments": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/05-evaluating-arguments.md
+                      - "6. How to start a project": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/06-how-to-start-a-project.md
+                      - "7. Structuring a paper": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/07-structuring-a-paper.md
+                      - "8. Using philosophical tools": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/08-using-philosophical-tools.md
+                      - "9. Reflection on the process": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/09-reflection-on-the-process.md
+                      - "10. Referencing and citations": universities/luh-hannover/semesters/ws2025/courses/project-seminar/sessions/10-referencing-and-citations.md
+                  - Readings: universities/luh-hannover/semesters/ws2025/courses/project-seminar/resources/readings.md
+                  - Writing & exam guidelines: universities/luh-hannover/semesters/ws2025/courses/project-seminar/resources/writing-and-exam-guidelines.md
           - SS2026:
               - Formal Methods:
                   - Overview: universities/luh-hannover/semesters/ss2026/courses/formal-methods/overview.md
@@ -101,6 +99,69 @@ nav:
                       - "12. Applied ethics: world poverty": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/12-applied-ethics-world-poverty.md
                       - "13. Applied ethics: abortion": universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/sessions/13-applied-ethics-abortion.md
                   - Readings: universities/luh-hannover/semesters/ss2026/courses/morality-and-justice/resources/readings.md
+          - WS2026:
+              - The Ethics of Artificial Intelligence:
+                  - Overview: universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/overview.md
+                  - Sessions:
+                      - "1. Introduction to the course": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/01-introduction-to-the-course.md
+                      - "2. What would it mean to build an ethical AI?": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/02-what-would-it-mean-to-build-an-ethical-ai.md
+                      - "3. Moral decision-making: self-driving cars, trolley cases, and moral psychology": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/03-moral-decision-making-self-driving-cars-trolley-cases-and-moral-psychology.md
+                      - "4. Fairness, bias, discrimination, and accountability": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/04-fairness-bias-discrimination-and-accountability.md
+                      - "5. Privacy, surveillance, and autonomy": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/05-privacy-surveillance-and-autonomy.md
+                      - "6. Automation, employment, and distributive justice": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/06-automation-employment-and-distributive-justice.md
+                      - "7. Autonomous weapons, responsibility, and meaningful human control": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/07-autonomous-weapons-responsibility-and-meaningful-human-control.md
+                      - "8. AI, law, and the problem of encoding ethics": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/08-ai-law-and-the-problem-of-encoding-ethics.md
+                      - "9. Superintelligence, existential risk, and global governance": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/09-superintelligence-existential-risk-and-global-governance.md
+                      - "10. The control problem and AI alignment": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/10-the-control-problem-and-ai-alignment.md
+                      - "11. Moral character, value alignment, and virtue": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/11-moral-character-value-alignment-and-virtue.md
+                      - "12. Could AI be conscious, and could it have rights?": universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/sessions/12-could-ai-be-conscious-and-could-it-have-rights.md
+                  - Readings: universities/luh-hannover/semesters/ws2026/courses/ethics-of-artificial-intelligence/resources/readings.md
+              - Explaining Consciousness:
+                  - Overview: universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/overview.md
+                  - Sessions:
+                      - "1. Welcome to the course": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/01-welcome-to-the-course.md
+                      - "2. What is consciousness, and what needs explaining?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/02-what-is-consciousness-and-what-needs-explaining.md
+                      - "3. Can consciousness be physically explained?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/03-can-consciousness-be-physically-explained.md
+                      - "4. What is the self?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/04-what-is-the-self.md
+                      - "5. Can consciousness emerge from complexity?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/05-can-consciousness-emerge-from-complexity.md
+                      - "6. What does neuroscience actually explain?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/06-what-does-neuroscience-actually-explain.md
+                      - "7. Can a machine think?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/07-can-a-machine-think.md
+                      - "8. Does computation produce understanding?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/08-does-computation-produce-understanding.md
+                      - "9. What makes me the same person?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/09-what-makes-me-the-same-person.md
+                      - "10. Does consciousness cause our actions?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/10-does-consciousness-cause-our-actions.md
+                      - "11. Could an artificial system actually be conscious?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/11-could-an-artificial-system-actually-be-conscious.md
+                      - "12. What would a genuine explanation of consciousness look like?": universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/sessions/12-what-would-a-genuine-explanation-of-consciousness-look-like.md
+                  - Readings: universities/luh-hannover/semesters/ws2026/courses/explaining-consciousness/resources/readings.md
+              - Morals and Markets:
+                  - Overview: universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/overview.md
+                  - Sessions:
+                      - "1. Introduction: what are markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/01-introduction-what-are-markets.md
+                      - "2. How to model markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/02-how-to-model-markets.md
+                      - "3. What are the social risks of markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/03-what-are-the-social-risks-of-markets.md
+                      - "4. What are the benefits of markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/04-what-are-the-benefits-of-markets.md
+                      - "5. Can markets fail?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/05-can-markets-fail.md
+                      - "6. Markets as coordination mechanism": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/06-markets-as-coordination-mechanism.md
+                      - "7. What are the moral limitations of markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/07-what-are-the-moral-limitations-of-markets.md
+                      - "8. How do economists evaluate markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/08-how-do-economists-evaluate-markets.md
+                      - "9. What are the relevant moral values to evaluate markets?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/09-what-are-the-relevant-moral-values-to-evaluate-markets.md
+                      - "10. Are inequalities generated by markets morally problematic?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/10-are-inequalities-generated-by-markets-morally-problematic.md
+                      - "11. Do markets have a character-building effect?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/11-do-markets-have-a-character-building-effect.md
+                      - "12. Can economists make markets morally better?": universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/sessions/12-can-economists-make-markets-morally-better.md
+                  - Readings: universities/luh-hannover/semesters/ws2026/courses/morals-and-markets/resources/readings.md
+              - Values in Science:
+                  - Overview: universities/luh-hannover/semesters/ws2026/courses/values-in-science/overview.md
+                  - Sessions:
+                      - "1. Introduction and overview": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/01-introduction-and-overview.md
+                      - "2. Ethical neutrality": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/02-ethical-neutrality.md
+                      - "3. Why value-freedom?": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/03-why-value-freedom.md
+                      - "4. Underdetermination": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/04-underdetermination.md
+                      - "5. Inductive risk": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/05-inductive-risk.md
+                      - "6. Direct and indirect roles for values": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/06-direct-and-indirect-roles-for-values.md
+                      - "7. The new demarcation problem": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/07-the-new-demarcation-problem.md
+                      - "8. Democratic legitimacy ideal": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/08-democratic-legitimacy-ideal.md
+                      - "9. Partisan science": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/09-partisan-science.md
+                      - "10. Towards a direct role for values": universities/luh-hannover/semesters/ws2026/courses/values-in-science/sessions/10-towards-a-direct-role-for-values.md
+                  - Readings: universities/luh-hannover/semesters/ws2026/courses/values-in-science/resources/readings.md
 
 markdown_extensions:
   - admonition

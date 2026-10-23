@@ -32,25 +32,6 @@ By the end of the course, students should be able to:
 4. Work with a range of classic and recent texts and authors in the field.
 5. Read and analyze philosophical texts with some competence.
 
-## Format
-
-Each session opens with a short quiz on the previous session's material
-(not graded, but attendance/participation is required), followed by group
-work or discussion, then a lecture.
-
-## Assessment
-
-- **Studienleistung (SL, 5 ECTS):** regular attendance and participation,
-  completing at least 9 in-class quizzes, doing the primary reading for each
-  session, and submitting 3 learning portfolios (a reflective "learning
-  diary" format) across the semester.
-- **Prüfungsleistung (PL) / module exam:** an oral or written exam focused
-  on one of the course topics, built around that session's readings.
-
-See [Writing & exam guidelines](../project-week/resources/writing-and-exam-guidelines.md)
-for general guidance on structuring seminar papers and exam handouts, used
-across several courses in the program.
-
 ## Recommended background reading
 
 - Barker, Gillian & Kitcher, Philipp (2014), *Philosophy of Science: A New
@@ -61,6 +42,10 @@ across several courses in the program.
   Philosophy of Science*, 2nd ed. University of Chicago Press.
 - Potochnik, Angela; Colombo, Matteo; Wright, Cory (2019), *Recipes for
   Science: An Introduction to Scientific Methods and Reasoning*. Routledge.
+
+## Resources
+
+- [Writing & exam guidelines](../project-seminar/resources/writing-and-exam-guidelines.md): guidance on structuring seminar papers and exam handouts, used across several courses in the program.
 
 ## Sessions
 

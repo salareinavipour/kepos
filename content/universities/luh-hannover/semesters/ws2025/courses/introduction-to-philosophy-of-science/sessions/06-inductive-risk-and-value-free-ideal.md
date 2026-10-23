@@ -1,4 +1,4 @@
-# Session 6 (Dec 4): Inductive Risk and the Value-Free Ideal
+# Session 6: Inductive Risk and the Value-Free Ideal
 
 ## Primary reading
 

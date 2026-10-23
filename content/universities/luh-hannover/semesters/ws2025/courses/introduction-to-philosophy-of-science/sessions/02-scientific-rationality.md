@@ -1,4 +1,4 @@
-# Session 2 (Oct 30): Scientific rationality
+# Session 2: Scientific rationality
 
 ## Primary reading
 

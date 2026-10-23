@@ -1,4 +1,4 @@
-# Session 7 (Jun 12): Bayesianism
+# Session 7: Bayesianism
 
 ## Recommended reading
 

@@ -66,6 +66,9 @@ which events are open to students.
 
 - [WS2025](semesters/ws2025/courses/introduction-to-philosophy-of-science/overview.md) —
   Introduction to Philosophy of Science, Models and Measurement, Project
-  Seminar/Project Week.
+  Seminar.
 - [SS2026](semesters/ss2026/courses/formal-methods/overview.md) —
   Formal Methods, Morality and Justice.
+- [WS2026](semesters/ws2026/courses/values-in-science/overview.md) —
+  Values in Science, The Ethics of Artificial Intelligence, Explaining
+  Consciousness, Morals and Markets.

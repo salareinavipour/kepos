@@ -1,4 +1,4 @@
-# Session 12 (Jul 10): Applied Ethics; World Poverty
+# Session 12: Applied Ethics; World Poverty
 
 ## Required reading
 

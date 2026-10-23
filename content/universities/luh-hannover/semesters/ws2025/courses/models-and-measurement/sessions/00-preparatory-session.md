@@ -1,4 +1,4 @@
-# Preparatory session (Oct 30)
+# Preparatory session
 
 Overview of the block seminar's working-group structure (see course
 overview for details). Groups are assigned a chapter of Chang's *Inventing

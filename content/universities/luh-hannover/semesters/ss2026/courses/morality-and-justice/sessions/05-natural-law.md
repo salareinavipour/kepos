@@ -1,4 +1,4 @@
-# Session 5 (May 15): Natural Law
+# Session 5: Natural Law
 
 ## Required reading
 

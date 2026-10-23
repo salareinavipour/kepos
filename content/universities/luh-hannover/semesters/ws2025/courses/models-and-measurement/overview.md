@@ -19,21 +19,6 @@ measurement? What can and can't be measured? What warrants a claim to an
 accurate measurement? How can one tell whether an instrument measures what
 it's meant to measure?
 
-## Format
-
-A block seminar: a preparatory session, then two full-day sessions.
-
-- **Preparatory session (Oct 30):** overview of the working-group
-  structure. Students form small groups, each becoming "experts" on one
-  chapter of *Inventing Temperature*, then split further into a subgroup
-  covering the chapter's historical content and one covering its
-  philosophical content. Each (sub)group prepares a presentation and leads
-  the subsequent discussion — accurately representing the chapter's content,
-  but also free to add their own reflections, objections, or related cases.
-- **Block days (Nov 14–15, 09:00–18:00):** five chapter groups present in
-  turn, each getting a full hour (split into two 50-minute halves with a
-  break), interleaved with breaks and a closing plenary discussion each day.
-
 ## Required reading
 
 Hasok Chang (2004), *Inventing Temperature: Measurement and Scientific

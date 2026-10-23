@@ -1,4 +1,4 @@
-# Session 8 (Jun 12): Social Contract Theory
+# Session 8: Social Contract Theory
 
 ## Required reading
 

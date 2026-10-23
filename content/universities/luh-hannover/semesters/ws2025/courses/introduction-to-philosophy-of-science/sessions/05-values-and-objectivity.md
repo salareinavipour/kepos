@@ -1,4 +1,4 @@
-# Session 5 (Nov 27): Values and Objectivity
+# Session 5: Values and Objectivity
 
 ## Primary reading
 

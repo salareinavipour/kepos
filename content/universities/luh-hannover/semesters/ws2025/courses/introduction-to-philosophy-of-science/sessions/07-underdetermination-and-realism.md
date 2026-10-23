@@ -1,4 +1,4 @@
-# Session 7 (Dec 11): Underdetermination and the Realism/Antirealism Debate
+# Session 7: Underdetermination and the Realism/Antirealism Debate
 
 ## Primary reading
 

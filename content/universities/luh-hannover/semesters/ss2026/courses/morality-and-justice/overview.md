@@ -23,30 +23,11 @@ theory (Hobbes, Mill, Kant) to contemporary applied ethics (Peter Singer,
 Judith Jarvis Thomson), using challenging cases and thought experiments
 throughout.
 
-## Format
-
-Weekly Friday sessions (Apr 10 – Jul 17), each built around a required
-reading and structured discussion.
-
 ## Required text
 
 Russ Shafer-Landau (ed.) (2023), *The Ethical Life: Fundamental Readings
 in Ethics and Moral Problems*, 6th ed. Oxford University Press. Additional
-readings distributed via Stud.IP.
-
-## Assessment (Studienleistung)
-
-Earn at least 8 points total, from any mix of:
-
-- **Written coursework** (1 point each): a ≤500-word response to that
-  session's discussion questions, due the preceding Tuesday evening.
-- **Presentation coursework** (4 points each): a ≤20-minute in-class
-  presentation on that session's topic.
-
-## Exam options (Prüfungsleistung)
-
-Either an oral exam (20/30 min) or a term paper (10–12/15 pages); topic
-agreed individually with the instructor.
+readings distributed via the course platform.
 
 ## Sessions
 

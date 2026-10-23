@@ -1,4 +1,4 @@
-# Session 1 (Oct 23): Introduction — what is science, what is philosophy of science?
+# Session 1: Introduction — what is science, what is philosophy of science?
 
 ## Background reading
 

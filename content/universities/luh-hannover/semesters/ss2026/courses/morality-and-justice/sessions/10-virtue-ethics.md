@@ -1,4 +1,4 @@
-# Session 10 (Jun 26): Virtue Ethics
+# Session 10: Virtue Ethics
 
 ## Required reading
 

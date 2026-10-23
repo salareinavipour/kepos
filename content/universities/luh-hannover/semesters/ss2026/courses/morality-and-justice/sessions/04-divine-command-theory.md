@@ -1,4 +1,4 @@
-# Session 4 (May 8): Divine Command Theory
+# Session 4: Divine Command Theory
 
 ## Required reading
 

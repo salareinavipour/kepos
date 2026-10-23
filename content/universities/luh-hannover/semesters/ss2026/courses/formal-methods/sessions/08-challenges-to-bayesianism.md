@@ -1,4 +1,4 @@
-# Session 8 (Jun 19): Challenges to Bayesianism
+# Session 8: Challenges to Bayesianism
 
 ## Recommended reading
 

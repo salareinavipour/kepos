@@ -1,4 +1,4 @@
-# Session 9 (Jun 26): Large Language Models
+# Session 9: Large Language Models
 
 Guest lecture by Max Noichl.
 

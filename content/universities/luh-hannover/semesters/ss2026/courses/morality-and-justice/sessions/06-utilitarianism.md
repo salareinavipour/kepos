@@ -1,4 +1,4 @@
-# Session 6 (May 22): Utilitarianism
+# Session 6: Utilitarianism
 
 ## Required reading
 

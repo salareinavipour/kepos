@@ -1,4 +1,4 @@
-# Session 3 (Nov 6): The Structure of Scientific Revolutions (Part 1)
+# Session 3: The Structure of Scientific Revolutions (Part 1)
 
 ## Primary reading
 

@@ -1,4 +1,4 @@
-# Session 9 (Jan 8): Scientific Explanation — the DN-Model and Beyond
+# Session 9: Scientific Explanation — the DN-Model and Beyond
 
 ## Primary reading
 

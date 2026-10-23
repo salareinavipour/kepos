@@ -1,4 +1,4 @@
-# Session 9 (Jun 19): Prima Facie Duties; A Plurality of Moral Rules
+# Session 9: Prima Facie Duties; A Plurality of Moral Rules
 
 ## Required reading
 

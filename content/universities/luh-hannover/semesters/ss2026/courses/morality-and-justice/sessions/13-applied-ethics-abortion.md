@@ -1,4 +1,4 @@
-# Session 13 (Jul 17): Applied Ethics; Abortion
+# Session 13: Applied Ethics; Abortion
 
 ## Required reading
 

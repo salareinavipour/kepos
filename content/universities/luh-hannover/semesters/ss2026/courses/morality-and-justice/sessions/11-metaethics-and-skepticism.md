@@ -1,4 +1,4 @@
-# Session 11 (Jul 3): Metaethics and Skepticism About Objective Morality
+# Session 11: Metaethics and Skepticism About Objective Morality
 
 ## Required reading
 

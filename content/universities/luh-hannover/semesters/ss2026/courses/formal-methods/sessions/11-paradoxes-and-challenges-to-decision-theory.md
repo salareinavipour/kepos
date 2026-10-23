@@ -1,4 +1,4 @@
-# Session 11 (Jul 10): Paradoxes and Other Challenges to Decision Theory
+# Session 11: Paradoxes and Other Challenges to Decision Theory
 
 ## Recommended reading
 

@@ -1,4 +1,4 @@
-# Session 10 (Jan 15): Models and Modeling in Science
+# Session 10: Models and Modeling in Science
 
 ## Primary reading
 

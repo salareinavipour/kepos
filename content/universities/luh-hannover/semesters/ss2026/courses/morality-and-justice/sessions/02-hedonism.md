@@ -1,4 +1,4 @@
-# Session 2 (Apr 17): What Is the Good Life? The Hedonist's Picture
+# Session 2: What Is the Good Life? The Hedonist's Picture
 
 ## Required reading
 

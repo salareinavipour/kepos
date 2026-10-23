@@ -7,7 +7,7 @@
   Most weekly readings are chapters from this book — see `../sessions/`
   for the chapter assigned each week.
 
-## Additional readings (Stud.IP)
+## Additional readings (distributed separately)
 
 - Epicurus, *Letter to Menoeceus*.
 - Williams, Bernard, *A Critique of Utilitarianism*.

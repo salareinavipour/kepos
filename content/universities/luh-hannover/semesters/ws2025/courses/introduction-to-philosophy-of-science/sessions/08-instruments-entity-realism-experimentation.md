@@ -1,4 +1,4 @@
-# Session 8 (Dec 18): Instruments, Entity-Realism, and the Epistemology of Experimentation
+# Session 8: Instruments, Entity-Realism, and the Epistemology of Experimentation
 
 ## Primary reading
 
@@ -11,7 +11,3 @@
   Experimentalism").
 - Feest, Uljana & Steinle, Friedrich (2016), "Experiment," in Paul Humphreys
   (ed.), *Oxford Handbook of Philosophy of Science*, pp. 274–295.
-
-## Notes
-
-- Second learning portfolio due Jan 5.
